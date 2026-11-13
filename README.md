@@ -1,4 +1,4 @@
-# INSE 6450 - AI in Systems Engineering: Milestone 2
+# INSE 6450 - AI in Systems Engineering: Milestone 3
 **Team 10: Explainable AI-Based Anomaly Detection**
 
 ## 📌 Project Overview
