@@ -1,2 +1,1 @@
-print("Hello! Python is working.")
-print("Fraud Anomaly Detector Project Started!")
+print('HELLO TEST')
